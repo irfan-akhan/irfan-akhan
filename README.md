@@ -14,7 +14,7 @@
 </p>
 
 <p align="right">
-<h3> Current Status </h3>
+<h3> :bell: Current Status </h3>
 - ✍️ &nbsp; Looking for a job as junior developer.
 </p>
 
