@@ -1,8 +1,4 @@
 <h2> Hey there! I'm Irfan.</h2> 
-<p align="right">
-<h3> Current Status </h3>
-- &nbsp; Looking for a job as junior developer.
-</p>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
@@ -15,6 +11,11 @@
 - 🎓 &nbsp; Studying Computer Science at Islamia College of Science and Commerce.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence. 
 - ✍️ &nbsp; Pursuing Blog Writing as hobbies/side hustles. 
+</p>
+
+<p align="right">
+<h3> Current Status </h3>
+- &nbsp; Looking for a job as junior developer.
 </p>
 
 <h3>🛠 Tech Stack</h3>
