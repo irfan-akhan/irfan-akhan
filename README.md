@@ -5,7 +5,7 @@
 
 <p align="left">
  
-<img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks. <br/>
 - 🎓 &nbsp; Studying Computer Science at Islamia College of Science and Commerce.  <br/>
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence. <br/>
@@ -14,7 +14,7 @@
 
 
 <h3>🛠 Tech Stack</h3>
-
+<img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 - 💻 &nbsp; Python | C++ 
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Node.js | ReactJS
 - 🛢 &nbsp; MongoDB
