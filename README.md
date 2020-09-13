@@ -33,10 +33,11 @@
 <br/>
 <h3> 🤝🏻 Connect with Me </h3>
 
-<p align="center">
+<p ">
 <a href="https://www.linkedin.com/in/irfan-khan-4a40b31b4/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://twitter.com/stupidlymoron" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white" alt="Twitter"></a> 
  <a href="mailto:khanirfan.work@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-khanirfan.work@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
-
+<p align="center>
 ⭐️ From [Irfan-akhan](https://github.com/Irfan-akhan)
+</p>
