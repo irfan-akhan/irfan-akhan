@@ -16,6 +16,7 @@
 - 🖥 &nbsp; Figma | Photoshop
 
 <br/>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
 [![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Irfan-akhan&show_icons=true)](https://github.com/Irfan-akhan)
 
