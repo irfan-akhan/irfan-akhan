@@ -38,6 +38,6 @@
 <a href="https://twitter.com/stupidlymoron" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white" alt="Twitter"></a> 
  <a href="mailto:khanirfan.work@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-khanirfan.work@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
-<p align="center>
+
 ⭐️ From [Irfan-akhan](https://github.com/Irfan-akhan)
-</p>
+
