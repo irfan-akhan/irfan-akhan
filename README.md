@@ -1,4 +1,8 @@
-<h2> Hey there! I'm Irfan.</h2>
+<h2> Hey there! I'm Irfan.</h2> 
+<p align="right">
+<h3> Current Status </h3>
+- &nbsp; Looking for a job as junior developer.
+</p>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
@@ -12,9 +16,6 @@
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence. 
 - ✍️ &nbsp; Pursuing Blog Writing as hobbies/side hustles. 
 </p>
-
-<h3> Current Status </h3>
-- &nbsp; Looking for a job as junior developer.
 
 <h3>🛠 Tech Stack</h3>
 - 💻 &nbsp; Python | C++ <br/>
