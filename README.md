@@ -6,20 +6,20 @@
 <p align="left">
  
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks. <br/>
-- 🎓 &nbsp; Studying Computer Science at Islamia College of Science and Commerce.  <br/>
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence. <br/>
-- ✍️ &nbsp; Pursuing Blog Writing as hobbies/side hustles. <br/>
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks. 
+- 🎓 &nbsp; Studying Computer Science at Islamia College of Science and Commerce.
+- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence. 
+- ✍️ &nbsp; Pursuing Blog Writing as hobbies/side hustles. 
 </p>
 
 
 <h3>🛠 Tech Stack</h3>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
-- 💻 &nbsp; Python | C++ 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Node.js | ReactJS
-- 🛢 &nbsp; MongoDB
-- 🔧 &nbsp; Git | Markdown 
-- 🖥 &nbsp; Figma | Photoshop
+- 💻 &nbsp; Python | C++ <br/>
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Node.js | ReactJS   <br/>
+- 🛢 &nbsp; MongoDB <br/>
+- 🔧 &nbsp; Git | Markdown <br/>
+- 🖥 &nbsp; Figma | Photoshop <br/>
 
 <br/>
 
