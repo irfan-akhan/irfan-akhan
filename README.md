@@ -13,10 +13,14 @@
 - ✍️ &nbsp; Pursuing Blog Writing as hobbies/side hustles. 
 </p>
 
+
+
 <p align="right">
 <h3> :bell: Current Status </h3>
 ** ✍️ &nbsp; Looking for a job as junior developer.
 </p>
+
+
 
 <h3>🛠 Tech Stack</h3>
 - 💻 &nbsp; Python | C++ <br/>
@@ -26,6 +30,7 @@
 - 🖥 &nbsp; Figma | Photoshop <br/>
 
 <br/>
+
 
 [![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Irfan-akhan&show_icons=true)](https://github.com/Irfan-akhan)
 
