@@ -4,7 +4,8 @@
 
 
 <p align="left">
- 
+ <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks. 
 - 🎓 &nbsp; Studying Computer Science at Islamia College of Science and Commerce.
