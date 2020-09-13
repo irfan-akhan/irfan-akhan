@@ -13,6 +13,8 @@
 - ✍️ &nbsp; Pursuing Blog Writing as hobbies/side hustles. 
 </p>
 
+<h3> Current Status </h3>
+- &nbsp; Looking for a job as junior developer.
 
 <h3>🛠 Tech Stack</h3>
 - 💻 &nbsp; Python | C++ <br/>
