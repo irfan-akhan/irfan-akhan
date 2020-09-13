@@ -15,7 +15,7 @@
 <br/>
 <br/>
 <h3> :bell: Current Status </h3>
-** ✍️ &nbsp; Looking for a job as junior developer.
+<p> ✍️  &nbsp; Looking for a job as junior developer. </p>
 <br/>
 <br/>
 <h3>🛠 Tech Stack</h3>
