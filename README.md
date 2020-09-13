@@ -22,7 +22,9 @@
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/irfan-khan-4a40b31b4/"><img alt="LinkedIn" src="https://iili.io/2qcXSa.png"></a>
+<a href="https://www.linkedin.com/in/irfan-khan-4a40b31b4/">target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white"</a>
+<a href="https://twitter.com/__Saravanan" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white" alt="Twitter"></a>
+
 <a href="mailto:khanirfan.work@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
