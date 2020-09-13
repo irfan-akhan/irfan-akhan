@@ -13,15 +13,14 @@
 - ✍️ &nbsp; Pursuing Blog Writing as hobbies/side hustles. 
 </p>
 
-<div>
+
 <h3>🛠 Tech Stack</h3>
-<img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 - 💻 &nbsp; Python | C++ <br/>
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Node.js | ReactJS   <br/>
 - 🛢 &nbsp; MongoDB <br/>
 - 🔧 &nbsp; Git | Markdown <br/>
 - 🖥 &nbsp; Figma | Photoshop <br/>
-</div>
+
 <br/>
 
 [![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Irfan-akhan&show_icons=true)](https://github.com/Irfan-akhan)
