@@ -12,14 +12,14 @@
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence. 
 - ✍️ &nbsp; Pursuing Blog Writing as hobbies/side hustles. 
 </p>
-<br/>
+
 <br/>
 <br/>
 <h3> :bell: Current Status </h3>
 ** ✍️ &nbsp; Looking for a job as junior developer.
 <br/>
 <br/>
-<br/>
+
 <h3>🛠 Tech Stack</h3>
 - 💻 &nbsp; Python | C++ <br/>
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Node.js | ReactJS   <br/>
@@ -28,11 +28,11 @@
 - 🖥 &nbsp; Figma | Photoshop <br/>
 <br/>
 <br/>
-<br/>
+
 
 
 [![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Irfan-akhan&show_icons=true)](https://github.com/Irfan-akhan)
-<br/>
+
 <br/>
 <br/>
 <h3> 🤝🏻 Connect with Me </h3>
