@@ -20,8 +20,8 @@
 <br/>
 <h3>🛠 Tech Stack</h3>
 <p>
-- 💻 &nbsp; Python | C++ 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Node.js | ReactJS 
+- 💻 &nbsp; Python | C++  <br/>
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Node.js | ReactJS  <br/>
 - 🛢 &nbsp; MongoDB <br/>
 - 🔧 &nbsp; Git | Markdown <br/>
 - 🖥 &nbsp; Figma | Photoshop <br/>
