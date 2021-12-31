@@ -29,7 +29,7 @@
 <br/>
 <br/>
 
-[![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Irfan-akhan&show_icons=true)](https://github.com/Irfan-akhan)
+[![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api?username=stupidlymoron&show_icons=true)](https://github.com/stupidlymoron)
 
 <br/>
 <br/>
@@ -41,5 +41,5 @@
  <a href="mailto:khanirfan.work@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-khanirfan.work@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
-⭐️ From [Irfan-akhan](https://github.com/Irfan-akhan)
+⭐️ From [Irfan-akhan](https://github.com/stupidlymoron)
 
