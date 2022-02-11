@@ -15,7 +15,7 @@
 <br/>
 <br/>
 <h3> :bell: Current Status </h3>
-- :mega: &nbsp;  Looking for a job as junior developer.
+- :mega: &nbsp;  Looking for a fullstack MERN developer role .
 <br/>
 <br/>
 <h3>🛠 Tech Stack</h3>
