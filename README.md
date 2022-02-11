@@ -29,7 +29,7 @@
 <br/>
 <br/>
 
-[![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api?username=stupidlymoron&show_icons=true)](https://github.com/stupidlymoron)
+[![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api?username=irfan-akhan&show_icons=true)](https://github.com/irfan-akhan)
 
 <br/>
 <br/>
@@ -37,9 +37,9 @@
 
 <p ">
 <a href="https://www.linkedin.com/in/irfan-khan-4a40b31b4/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://twitter.com/stupidlymoron" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white" alt="Twitter"></a> 
+<a href="https://twitter.com/irfan-akhan" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white" alt="Twitter"></a> 
  <a href="mailto:khanirfan.work@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-khanirfan.work@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
-⭐️ From [Irfan-akhan](https://github.com/stupidlymoron)
+⭐️ From [Irfan-akhan](https://github.com/irfan-akhan)
 
