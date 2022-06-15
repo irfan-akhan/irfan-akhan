@@ -15,13 +15,13 @@
 <br/>
 <br/>
 <h3> :bell: Current Status </h3>
-- :mega: &nbsp;  Looking for a fullstack MERN developer role .
+- :mega: &nbsp;  Software Engineer @classicinformatics .
 <br/>
 <br/>
 <h3>🛠 Tech Stack</h3>
 <p>
 - 💻 &nbsp; Python | C++  <br/>
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Node.js | ReactJS  <br/>
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Node.js | ReactJS | Next.js  <br/>
 - 🛢 &nbsp; MongoDB <br/>
 - 🔧 &nbsp; Git | Markdown <br/>
 - 🖥 &nbsp; Figma | Photoshop <br/>
